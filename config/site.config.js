@@ -39,7 +39,7 @@ module.exports = {
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
     // 'Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.',
-    '<a href="https://miseryset.netlify.app" target="_blank" rel="nofollow noopener"><span>Miseryset</span></a> <i class="fa-solid fa-heart-pulse"></i> <a href="https://github.com/miseryset/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>',
+    '<a href="https://miseryset.netlify.app" target="_blank" rel="nofollow noopener"><span>Miseryset</span></a> ♡ <a href="https://github.com/miseryset/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
